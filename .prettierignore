@@ -1,0 +1,8 @@
+# .prettierignore
+node_modules
+.next
+.amplify
+out
+build
+coverage
+*.log
